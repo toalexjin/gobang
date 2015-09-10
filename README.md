@@ -31,6 +31,11 @@ it and keep it as is.
       updated compiler.
 3. Build all source files (`/src/*.c`) with the compiler.
 
+## Release Binary
+
+Visit https://github.com/toalexjin/gobang/releases to download
+release binary.
+
 ## Screenshots
 ![Play 1](screenshots/play1.png)
 ![Play 2](screenshots/play2.png)
