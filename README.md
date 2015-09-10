@@ -24,7 +24,7 @@ it and keep it as is.
 ## Build
 
 1. Install **Windows 98** or earlier.
-2. Download [Turbo C 2.0](TC2.0.zip) here, extract it.
+2. Extract **Turbo C 2.0** tarball (`/TC2.0.zip`).
     - I added several header files to **Turbo C 2.0**. The goal
       of the new header files is to support GUI and mouse by
       calling x86 interrupt. Therefore, this tarball is an
